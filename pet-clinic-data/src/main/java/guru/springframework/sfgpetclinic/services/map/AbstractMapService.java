@@ -1,6 +1,5 @@
-package guru.springframework.sfgpetclinic.map;
+package guru.springframework.sfgpetclinic.services.map;
 
-import javax.persistence.Id;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
